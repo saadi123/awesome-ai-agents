@@ -4938,6 +4938,7 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 ## Join the community
 - Follow us on [X ](https://twitter.com/e2b_dev)
 - [Hit us up on discord](https://discord.gg/35NF4Y8WSE)
+- For more AI-related news and updates, visit [Cool AI Software](https://coolaisoftware.com)
 - Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
 
 <!-- 
